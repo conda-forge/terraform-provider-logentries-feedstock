@@ -1,10 +1,10 @@
 {% set provider= "Logentries" %}
-{% set version = "0.1.0" %}
+{% set version = "1.0.0" %}
 
 {% set name = "terraform-provider-" + provider.lower() %}
 {% set x4_plugin = name + '_v' + version + "_x4" %}
 
-{% set sha256 = "886a7b74f5faf8abdad884fbab8eb430050c9801bd4a0b097b0613756beb0365" %}
+{% set sha256 = "2851786e190b844446b7bac94b342f226284cfd6603b2bef2ddad81f177b9f1b" %}
 {% set sha256_win32 = "480a4d9b4a122716a92f754962501207d3ff083644b3cb97dcc901b706289ad4" %}
 {% set sha256_win64 = "9bb12bfd0b46adc57a04b2a701cd5d7ea12e2917e3dcca4a6a33b5be20183bd4" %}
 
