@@ -14,14 +14,16 @@ Summary: The Terraform Logentries provider
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/terraform-provider-logentries-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/terraform-provider-logentries-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/terraform-provider-logentries-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/terraform-provider-logentries-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/terraform-provider-logentries-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/terraform-provider-logentries-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/terraform-provider-logentries-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/terraform-provider-logentries-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/terraform-provider-logentries-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/terraform-provider-logentries-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/terraform-provider-logentries-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/terraform-provider-logentries-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-logentries/badges/version.svg)](https://anaconda.org/conda-forge/terraform-provider-logentries)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-logentries/badges/downloads.svg)](https://anaconda.org/conda-forge/terraform-provider-logentries)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-terraform--provider--logentries-green.svg)](https://anaconda.org/conda-forge/terraform-provider-logentries) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/terraform-provider-logentries.svg)](https://anaconda.org/conda-forge/terraform-provider-logentries) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/terraform-provider-logentries.svg)](https://anaconda.org/conda-forge/terraform-provider-logentries) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/terraform-provider-logentries.svg)](https://anaconda.org/conda-forge/terraform-provider-logentries) |
 
 Installing terraform-provider-logentries
 ========================================
